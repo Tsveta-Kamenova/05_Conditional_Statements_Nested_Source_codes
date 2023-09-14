@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\refint\02.SummerClothing.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\02.SummerClothing\obj\Debug\net6.0\ref\02.SummerClothing.dll

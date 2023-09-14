@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\bin\Debug\net6.0\03.NewHome.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\bin\Debug\net6.0\03.NewHome.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\bin\Debug\net6.0\03.NewHome.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\bin\Debug\net6.0\03.NewHome.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\bin\Debug\net6.0\03.NewHome.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\03.NewHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\03.NewHome.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\03.NewHome.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\03.NewHome.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\03.NewHome.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\refint\03.NewHome.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\03.NewHome.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\03.NewHome.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\03.NewHome\obj\Debug\net6.0\ref\03.NewHome.dll

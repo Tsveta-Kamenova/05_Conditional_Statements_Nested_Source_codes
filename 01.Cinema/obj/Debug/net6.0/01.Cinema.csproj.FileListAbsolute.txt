@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\01.Cinema.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\bin\Debug\net6.0\01.Cinema.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\bin\Debug\net6.0\01.Cinema.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\bin\Debug\net6.0\01.Cinema.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\bin\Debug\net6.0\01.Cinema.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\bin\Debug\net6.0\01.Cinema.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\01.Cinema.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\refint\01.Cinema.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\01.Cinema.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\01.Cinema.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements_Nested_Source_codes\01.Cinema\obj\Debug\net6.0\ref\01.Cinema.dll
