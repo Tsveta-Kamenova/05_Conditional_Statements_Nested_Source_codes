@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\01.Cinema.csproj",
-      "projectName": "01.Cinema",
-      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\01.Cinema.csproj",
+      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\05.ConditionalStatements\\04.FishingBoat\\04.FishingBoat.csproj",
+      "projectName": "04.FishingBoat",
+      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\05.ConditionalStatements\\04.FishingBoat\\04.FishingBoat.csproj",
       "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\obj\\",
+      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\05.ConditionalStatements\\04.FishingBoat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

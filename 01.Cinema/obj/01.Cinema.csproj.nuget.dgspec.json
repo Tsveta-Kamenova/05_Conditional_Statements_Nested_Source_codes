@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\01.Cinema\\01.Cinema.csproj": {}
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\01.Cinema.csproj": {}
   },
   "projects": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\01.Cinema\\01.Cinema.csproj": {
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\01.Cinema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\01.Cinema\\01.Cinema.csproj",
+        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\01.Cinema.csproj",
         "projectName": "01.Cinema",
-        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\01.Cinema\\01.Cinema.csproj",
+        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\01.Cinema.csproj",
         "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\01.Cinema\\obj\\",
+        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\01.Cinema\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

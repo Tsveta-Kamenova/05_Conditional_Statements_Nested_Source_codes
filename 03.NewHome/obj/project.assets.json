@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\03.NewHome\\03.NewHome.csproj",
+      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\03.NewHome\\03.NewHome.csproj",
       "projectName": "03.NewHome",
-      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\03.NewHome\\03.NewHome.csproj",
+      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\03.NewHome\\03.NewHome.csproj",
       "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\03.NewHome\\obj\\",
+      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\03.NewHome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

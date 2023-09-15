@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\02.SummerClothing\\02.SummerClothing.csproj": {}
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\02.SummerClothing\\02.SummerClothing.csproj": {}
   },
   "projects": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\02.SummerClothing\\02.SummerClothing.csproj": {
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\02.SummerClothing\\02.SummerClothing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\02.SummerClothing\\02.SummerClothing.csproj",
+        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\02.SummerClothing\\02.SummerClothing.csproj",
         "projectName": "02.SummerClothing",
-        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\02.SummerClothing\\02.SummerClothing.csproj",
+        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\02.SummerClothing\\02.SummerClothing.csproj",
         "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements_Nested_Source_codes\\02.SummerClothing\\obj\\",
+        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\02.SummerClothing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",
