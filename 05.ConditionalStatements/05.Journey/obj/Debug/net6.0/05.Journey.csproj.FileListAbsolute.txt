@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll

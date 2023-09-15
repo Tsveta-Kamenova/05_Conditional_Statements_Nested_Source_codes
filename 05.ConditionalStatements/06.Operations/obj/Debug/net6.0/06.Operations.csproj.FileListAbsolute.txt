@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\refint\06.Operations.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\06.Operations\obj\Debug\net6.0\ref\06.Operations.dll

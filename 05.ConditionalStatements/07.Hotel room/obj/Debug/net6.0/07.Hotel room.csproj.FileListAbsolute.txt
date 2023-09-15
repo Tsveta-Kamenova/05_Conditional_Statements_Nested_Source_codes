@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\bin\Debug\net6.0\07.Hotel room.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\bin\Debug\net6.0\07.Hotel room.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\bin\Debug\net6.0\07.Hotel room.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\bin\Debug\net6.0\07.Hotel room.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\bin\Debug\net6.0\07.Hotel room.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\07.Hotel room.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\07.Hotel room.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\07.Hotel room.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\07.Hotel room.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\07.Hotel room.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\refint\07.Hotel room.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\07.Hotel room.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\07.Hotel room.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\05.ConditionalStatements\07.Hotel room\obj\Debug\net6.0\ref\07.Hotel room.dll
