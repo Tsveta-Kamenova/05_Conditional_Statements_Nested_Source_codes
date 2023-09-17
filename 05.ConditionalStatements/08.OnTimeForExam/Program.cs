@@ -10,46 +10,39 @@
             int arrivalMinute = int.Parse(Console.ReadLine());
 
             int examTimeInMinutes = examHour * 60 + examMinute;
-            //600 for 10 a.m.
-           
             int arrivalTimeInMinutes = arrivalHour * 60 + arrivalMinute;
-            //631 for 10:31 a.m. //31 late
-            //569 for 09:29 a.m. //-31 early
 
-            int differenceInMinutes = arrivalTimeInMinutes - examTimeInMinutes;
+            int differenceInMinutes = examTimeInMinutes - arrivalTimeInMinutes;
 
-            if (differenceInMinutes >= -30 && differenceInMinutes <= 0)
-            {
-                Console.WriteLine("On time");
-            }
-            else if (differenceInMinutes > 0)
-            {
-                Console.WriteLine("Late");
-            }
-            else if (differenceInMinutes < -30)
-            {
-                Console.WriteLine("Early");
-            }
+            string status = ""; // "Late" "On time"
+            string comparison = ""; // "before" "after"
 
-            //late
-            if (differenceInMinutes > 0 && differenceInMinutes <= 60)
+
+            if (differenceInMinutes>= 0  && differenceInMinutes <= 30)
             {
-                Console.WriteLine($"{Math.Abs(differenceInMinutes)} minutes after the start");
-            }
-            else if (differenceInMinutes > 60)
+                status = "On time";
+                comparison = "before";
+            } else if (differenceInMinutes < 0)
             {
-                Console.WriteLine($"{differenceInMinutes / 60}:{differenceInMinutes % 60:D2} hours after the start");
+                status = "Late";
+                comparison = "after";
+                differenceInMinutes = -differenceInMinutes;
+            } else
+            {
+                status = "Early";
+                comparison = "before";
             }
 
-            //early
-            else if (differenceInMinutes < 30 && differenceInMinutes > -60)
-            {
-                Console.WriteLine($"{Math.Abs(differenceInMinutes)} minutes before the start");
-            }
-            else if (differenceInMinutes <= -60)
-            {
-                Console.WriteLine($"{Math.Abs(differenceInMinutes / 60)}:{differenceInMinutes % 60:D2} hours before the start");
-            }
+
+            int compH = differenceInMinutes / 60;
+            int compM = differenceInMinutes % 60;
+
+            Console.WriteLine(status);
+            if (compH > 0)
+                Console.WriteLine($"{compH}:{compM:D2} hours {comparison} the start");
+            else if (compM > 0)
+                    Console.WriteLine($"{compM} minutes {comparison} the start");
+                
         }
     }
 }
