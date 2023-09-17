@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             double n1 = double.Parse((Console.ReadLine()));
             double n2 = double.Parse((Console.ReadLine()));
             string operation = Console.ReadLine();
@@ -25,8 +24,8 @@
                     else
                     {
                         Console.WriteLine($"{n1} / {n2} = {resultDiv:F2}");
-                    }
-
+                    }    
+                    
                     break;
                 case "%":
                     if (n2 != 0)
@@ -71,7 +70,7 @@
                 default:
                     Console.WriteLine("Error");
                     return;
-            }
+            }         
         }
     }
 }

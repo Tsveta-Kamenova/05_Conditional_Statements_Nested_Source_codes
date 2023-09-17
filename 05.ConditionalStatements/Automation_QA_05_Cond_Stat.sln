@@ -9,17 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SummerClothing", "..\02.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.NewHome", "..\03.NewHome\03.NewHome.csproj", "{AD1A46E6-E1EF-4F6E-8233-6024ECA6274D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FishingBoat", "04.FishingBoat\04.FishingBoat.csproj", "{EC894125-6EA0-477F-99FD-AF29B6AB12A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FishingBoat", "..\04.FishingBoat\04.FishingBoat.csproj", "{EC894125-6EA0-477F-99FD-AF29B6AB12A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Journey", "05.Journey\05.Journey.csproj", "{6F9A3C9F-9049-4395-90A8-1272AF94CE72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Journey", "..\05.Journey\05.Journey.csproj", "{6F9A3C9F-9049-4395-90A8-1272AF94CE72}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Operations", "06.Operations\06.Operations.csproj", "{0F3D30DB-F945-4088-B885-8FCD7336A980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Hotel room", "..\07.Hotel room\07.Hotel room.csproj", "{4DF26F5D-6A9F-4F2D-92CD-E243D78CF2E2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Hotel room", "07.Hotel room\07.Hotel room.csproj", "{4DF26F5D-6A9F-4F2D-92CD-E243D78CF2E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SkiHoliday", "..\09.SkiHoliday\09.SkiHoliday.csproj", "{E3DA9AAF-FE33-4654-B995-25C2B93A40F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SkiHoliday", "09.SkiHoliday\09.SkiHoliday.csproj", "{E3DA9AAF-FE33-4654-B995-25C2B93A40F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.OnTimeForExam", "..\08.OnTimeForExam\08.OnTimeForExam.csproj", "{A2C96E5A-C78D-42EF-891C-8A9B4B0E3AFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.OnTimeForExam", "08.OnTimeForExam\08.OnTimeForExam.csproj", "{A2C96E5A-C78D-42EF-891C-8A9B4B0E3AFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Operations", "06.Operations\06.Operations.csproj", "{582096FF-C164-483A-BD44-D807C6FDF768}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,6 @@ Global
 		{6F9A3C9F-9049-4395-90A8-1272AF94CE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F9A3C9F-9049-4395-90A8-1272AF94CE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F9A3C9F-9049-4395-90A8-1272AF94CE72}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F3D30DB-F945-4088-B885-8FCD7336A980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F3D30DB-F945-4088-B885-8FCD7336A980}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F3D30DB-F945-4088-B885-8FCD7336A980}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F3D30DB-F945-4088-B885-8FCD7336A980}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4DF26F5D-6A9F-4F2D-92CD-E243D78CF2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4DF26F5D-6A9F-4F2D-92CD-E243D78CF2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF26F5D-6A9F-4F2D-92CD-E243D78CF2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -63,6 +59,10 @@ Global
 		{A2C96E5A-C78D-42EF-891C-8A9B4B0E3AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2C96E5A-C78D-42EF-891C-8A9B4B0E3AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2C96E5A-C78D-42EF-891C-8A9B4B0E3AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582096FF-C164-483A-BD44-D807C6FDF768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582096FF-C164-483A-BD44-D807C6FDF768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582096FF-C164-483A-BD44-D807C6FDF768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582096FF-C164-483A-BD44-D807C6FDF768}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
