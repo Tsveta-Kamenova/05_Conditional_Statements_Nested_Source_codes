@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\bin\Debug\net6.0\011.CoffeeShop.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\bin\Debug\net6.0\011.CoffeeShop.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\bin\Debug\net6.0\011.CoffeeShop.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\bin\Debug\net6.0\011.CoffeeShop.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\bin\Debug\net6.0\011.CoffeeShop.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\011.CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\011.CoffeeShop.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\011.CoffeeShop.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\011.CoffeeShop.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\011.CoffeeShop.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\refint\011.CoffeeShop.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\011.CoffeeShop.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\011.CoffeeShop.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\011.CoffeeShop\obj\Debug\net6.0\ref\011.CoffeeShop.dll

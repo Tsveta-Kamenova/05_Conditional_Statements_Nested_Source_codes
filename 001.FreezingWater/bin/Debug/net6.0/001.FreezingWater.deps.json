@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "001.FreezingWater/1.0.0": {
+        "runtime": {
+          "001.FreezingWater.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "001.FreezingWater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

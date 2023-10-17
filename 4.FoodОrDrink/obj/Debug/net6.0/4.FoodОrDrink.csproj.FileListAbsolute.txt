@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\bin\Debug\net6.0\4.FoodОrDrink.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\bin\Debug\net6.0\4.FoodОrDrink.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\bin\Debug\net6.0\4.FoodОrDrink.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\bin\Debug\net6.0\4.FoodОrDrink.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\bin\Debug\net6.0\4.FoodОrDrink.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\4.FoodОrDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\4.FoodОrDrink.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\4.FoodОrDrink.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\4.FoodОrDrink.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\4.FoodОrDrink.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\refint\4.FoodОrDrink.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\4.FoodОrDrink.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\4.FoodОrDrink.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\4.FoodОrDrink\obj\Debug\net6.0\ref\4.FoodОrDrink.dll

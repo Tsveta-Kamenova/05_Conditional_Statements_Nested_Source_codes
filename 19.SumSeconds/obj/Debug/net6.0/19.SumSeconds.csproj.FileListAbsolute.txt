@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\bin\Debug\net6.0\19.SumSeconds.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\bin\Debug\net6.0\19.SumSeconds.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\bin\Debug\net6.0\19.SumSeconds.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\bin\Debug\net6.0\19.SumSeconds.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\bin\Debug\net6.0\19.SumSeconds.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\19.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\19.SumSeconds.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\19.SumSeconds.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\19.SumSeconds.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\19.SumSeconds.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\refint\19.SumSeconds.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\19.SumSeconds.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\19.SumSeconds.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\19.SumSeconds\obj\Debug\net6.0\ref\19.SumSeconds.dll

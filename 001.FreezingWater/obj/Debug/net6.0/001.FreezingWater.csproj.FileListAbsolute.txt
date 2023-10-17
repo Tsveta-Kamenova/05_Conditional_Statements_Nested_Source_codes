@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\bin\Debug\net6.0\001.FreezingWater.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\bin\Debug\net6.0\001.FreezingWater.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\bin\Debug\net6.0\001.FreezingWater.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\bin\Debug\net6.0\001.FreezingWater.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\bin\Debug\net6.0\001.FreezingWater.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\001.FreezingWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\001.FreezingWater.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\001.FreezingWater.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\001.FreezingWater.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\001.FreezingWater.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\refint\001.FreezingWater.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\001.FreezingWater.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\001.FreezingWater.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\001.FreezingWater\obj\Debug\net6.0\ref\001.FreezingWater.dll

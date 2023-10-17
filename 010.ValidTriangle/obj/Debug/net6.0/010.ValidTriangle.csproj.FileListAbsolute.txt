@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\010.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\010.ValidTriangle.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\010.ValidTriangle.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\010.ValidTriangle.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\bin\Debug\net6.0\010.ValidTriangle.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\bin\Debug\net6.0\010.ValidTriangle.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\bin\Debug\net6.0\010.ValidTriangle.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\bin\Debug\net6.0\010.ValidTriangle.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\bin\Debug\net6.0\010.ValidTriangle.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\010.ValidTriangle.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\refint\010.ValidTriangle.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\010.ValidTriangle.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\010.ValidTriangle.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\010.ValidTriangle\obj\Debug\net6.0\ref\010.ValidTriangle.dll

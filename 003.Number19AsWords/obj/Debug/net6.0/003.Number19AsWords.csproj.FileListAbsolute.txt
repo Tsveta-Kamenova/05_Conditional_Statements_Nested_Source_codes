@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\bin\Debug\net6.0\003.Number19AsWords.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\bin\Debug\net6.0\003.Number19AsWords.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\bin\Debug\net6.0\003.Number19AsWords.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\bin\Debug\net6.0\003.Number19AsWords.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\bin\Debug\net6.0\003.Number19AsWords.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\003.Number19AsWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\003.Number19AsWords.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\003.Number19AsWords.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\003.Number19AsWords.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\003.Number19AsWords.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\refint\003.Number19AsWords.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\003.Number19AsWords.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\003.Number19AsWords.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\003.Number19AsWords\obj\Debug\net6.0\ref\003.Number19AsWords.dll

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\bin\Debug\net6.0\1.Marketplace.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\bin\Debug\net6.0\1.Marketplace.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\bin\Debug\net6.0\1.Marketplace.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\bin\Debug\net6.0\1.Marketplace.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\bin\Debug\net6.0\1.Marketplace.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\1.Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\1.Marketplace.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\1.Marketplace.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\1.Marketplace.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\1.Marketplace.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\refint\1.Marketplace.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\1.Marketplace.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\1.Marketplace.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\1.Marketplace\obj\Debug\net6.0\ref\1.Marketplace.dll

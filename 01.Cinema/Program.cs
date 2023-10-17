@@ -27,7 +27,7 @@ namespace _01.Cinema
             {
                 income = allSeats * normalPrice;
             }
-            else if (typeScreening == "Discount ")
+            else if (typeScreening == "Discount")
             {
                 income = allSeats * discountPrice;
             }

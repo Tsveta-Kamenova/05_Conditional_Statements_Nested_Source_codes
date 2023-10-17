@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\bin\Debug\net6.0\8.SortedNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\bin\Debug\net6.0\8.SortedNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\bin\Debug\net6.0\8.SortedNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\bin\Debug\net6.0\8.SortedNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\bin\Debug\net6.0\8.SortedNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\8.SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\8.SortedNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\8.SortedNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\8.SortedNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\8.SortedNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\refint\8.SortedNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\8.SortedNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\8.SortedNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\8.SortedNumbers\obj\Debug\net6.0\ref\8.SortedNumbers.dll

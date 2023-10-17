@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\bin\Debug\net6.0\15.VacationExpenses.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\bin\Debug\net6.0\15.VacationExpenses.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\bin\Debug\net6.0\15.VacationExpenses.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\bin\Debug\net6.0\15.VacationExpenses.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\bin\Debug\net6.0\15.VacationExpenses.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\15.VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\15.VacationExpenses.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\15.VacationExpenses.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\15.VacationExpenses.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\15.VacationExpenses.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\refint\15.VacationExpenses.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\15.VacationExpenses.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\15.VacationExpenses.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\15.VacationExpenses\obj\Debug\net6.0\ref\15.VacationExpenses.dll

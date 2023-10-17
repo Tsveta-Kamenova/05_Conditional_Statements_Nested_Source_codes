@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\bin\Debug\net6.0\13.BiggestOfFiveNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\bin\Debug\net6.0\13.BiggestOfFiveNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\bin\Debug\net6.0\13.BiggestOfFiveNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\bin\Debug\net6.0\13.BiggestOfFiveNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\bin\Debug\net6.0\13.BiggestOfFiveNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\13.BiggestOfFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\13.BiggestOfFiveNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\13.BiggestOfFiveNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\13.BiggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\13.BiggestOfFiveNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\refint\13.BiggestOfFiveNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\13.BiggestOfFiveNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\13.BiggestOfFiveNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\13.BiggestOfFiveNumbers\obj\Debug\net6.0\ref\13.BiggestOfFiveNumbers.dll

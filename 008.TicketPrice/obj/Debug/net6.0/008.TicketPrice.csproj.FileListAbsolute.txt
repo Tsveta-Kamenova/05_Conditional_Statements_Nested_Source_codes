@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\bin\Debug\net6.0\008.TicketPrice.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\bin\Debug\net6.0\008.TicketPrice.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\bin\Debug\net6.0\008.TicketPrice.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\bin\Debug\net6.0\008.TicketPrice.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\bin\Debug\net6.0\008.TicketPrice.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\008.TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\008.TicketPrice.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\008.TicketPrice.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\008.TicketPrice.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\008.TicketPrice.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\refint\008.TicketPrice.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\008.TicketPrice.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\008.TicketPrice.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\008.TicketPrice\obj\Debug\net6.0\ref\008.TicketPrice.dll

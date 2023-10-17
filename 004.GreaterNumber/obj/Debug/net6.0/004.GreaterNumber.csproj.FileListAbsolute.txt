@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\bin\Debug\net6.0\004.GreaterNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\bin\Debug\net6.0\004.GreaterNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\bin\Debug\net6.0\004.GreaterNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\bin\Debug\net6.0\004.GreaterNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\bin\Debug\net6.0\004.GreaterNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\004.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\004.GreaterNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\004.GreaterNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\004.GreaterNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\004.GreaterNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\refint\004.GreaterNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\004.GreaterNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\004.GreaterNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\004.GreaterNumber\obj\Debug\net6.0\ref\004.GreaterNumber.dll

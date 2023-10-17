@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\bin\Debug\net6.0\18.InvalidNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\bin\Debug\net6.0\18.InvalidNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\bin\Debug\net6.0\18.InvalidNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\bin\Debug\net6.0\18.InvalidNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\bin\Debug\net6.0\18.InvalidNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\18.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\18.InvalidNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\18.InvalidNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\18.InvalidNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\18.InvalidNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\refint\18.InvalidNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\18.InvalidNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\18.InvalidNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\18.InvalidNumber\obj\Debug\net6.0\ref\18.InvalidNumber.dll

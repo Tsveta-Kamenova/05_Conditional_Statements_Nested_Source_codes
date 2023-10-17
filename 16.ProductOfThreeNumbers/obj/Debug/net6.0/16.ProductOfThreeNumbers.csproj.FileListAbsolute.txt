@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\bin\Debug\net6.0\16.ProductOfThreeNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\bin\Debug\net6.0\16.ProductOfThreeNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\bin\Debug\net6.0\16.ProductOfThreeNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\bin\Debug\net6.0\16.ProductOfThreeNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\bin\Debug\net6.0\16.ProductOfThreeNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\16.ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\16.ProductOfThreeNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\16.ProductOfThreeNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\16.ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\16.ProductOfThreeNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\refint\16.ProductOfThreeNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\16.ProductOfThreeNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\16.ProductOfThreeNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\16.ProductOfThreeNumbers\obj\Debug\net6.0\ref\16.ProductOfThreeNumbers.dll

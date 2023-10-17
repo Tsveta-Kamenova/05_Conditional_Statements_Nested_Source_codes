@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\009.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\009.AreaOfFigures.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\009.AreaOfFigures.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\009.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\bin\Debug\net6.0\009.AreaOfFigures.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\bin\Debug\net6.0\009.AreaOfFigures.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\bin\Debug\net6.0\009.AreaOfFigures.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\bin\Debug\net6.0\009.AreaOfFigures.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\bin\Debug\net6.0\009.AreaOfFigures.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\009.AreaOfFigures.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\refint\009.AreaOfFigures.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\009.AreaOfFigures.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\009.AreaOfFigures.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\009.AreaOfFigures\obj\Debug\net6.0\ref\009.AreaOfFigures.dll

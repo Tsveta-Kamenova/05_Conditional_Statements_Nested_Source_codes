@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\05.ConditionalStatements\\06.Operations\\06.Operations.csproj",
+      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\06.Operations\\06.Operations.csproj",
       "projectName": "06.Operations",
-      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\05.ConditionalStatements\\06.Operations\\06.Operations.csproj",
+      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\06.Operations\\06.Operations.csproj",
       "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\05.ConditionalStatements\\06.Operations\\obj\\",
+      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\05_Conditional_Statements\\06.Operations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\bin\Debug\net6.0\17.WorkingHours.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\bin\Debug\net6.0\17.WorkingHours.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\bin\Debug\net6.0\17.WorkingHours.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\bin\Debug\net6.0\17.WorkingHours.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\bin\Debug\net6.0\17.WorkingHours.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\17.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\17.WorkingHours.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\17.WorkingHours.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\17.WorkingHours.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\17.WorkingHours.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\refint\17.WorkingHours.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\17.WorkingHours.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\17.WorkingHours.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\05_Conditional_Statements\17.WorkingHours\obj\Debug\net6.0\ref\17.WorkingHours.dll

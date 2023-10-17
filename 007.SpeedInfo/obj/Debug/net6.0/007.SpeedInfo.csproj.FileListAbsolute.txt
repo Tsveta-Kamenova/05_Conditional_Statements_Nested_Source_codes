@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\bin\Debug\net6.0\007.SpeedInfo.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\bin\Debug\net6.0\007.SpeedInfo.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\bin\Debug\net6.0\007.SpeedInfo.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\bin\Debug\net6.0\007.SpeedInfo.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\bin\Debug\net6.0\007.SpeedInfo.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\007.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\007.SpeedInfo.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\007.SpeedInfo.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\007.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\007.SpeedInfo.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\refint\007.SpeedInfo.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\007.SpeedInfo.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\007.SpeedInfo.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\007.SpeedInfo\obj\Debug\net6.0\ref\007.SpeedInfo.dll

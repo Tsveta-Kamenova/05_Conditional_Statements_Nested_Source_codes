@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\bin\Debug\net6.0\002.EvenOrOdd.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\bin\Debug\net6.0\002.EvenOrOdd.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\bin\Debug\net6.0\002.EvenOrOdd.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\bin\Debug\net6.0\002.EvenOrOdd.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\bin\Debug\net6.0\002.EvenOrOdd.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\002.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\002.EvenOrOdd.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\002.EvenOrOdd.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\002.EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\002.EvenOrOdd.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\refint\002.EvenOrOdd.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\002.EvenOrOdd.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\002.EvenOrOdd.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\002.EvenOrOdd\obj\Debug\net6.0\ref\002.EvenOrOdd.dll
